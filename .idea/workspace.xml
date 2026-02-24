@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3104e7fe-bb97-4033-b1d4-46a081b11254" name="Changes" comment="" />
+    <list default="true" id="3104e7fe-bb97-4033-b1d4-46a081b11254" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/DOSW-ParcialT1/src/main/java/edu/dosw/parcial/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/DOSW-ParcialT1/docs/images/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/requirements/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/DOSW-ParcialT1/docs/requirements/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/uml/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/DOSW-ParcialT1/docs/uml/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/dosw/parcial/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/edu/dosw/parcial/AppTest.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,11 +49,29 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kevyn\IdeaProjects\DOSW_ParcialT1_KevynForero\DOSW-ParcialT1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="DOSW_ParcialT1_KevynForero" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="DOSW_ParcialT1_KevynForero" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
