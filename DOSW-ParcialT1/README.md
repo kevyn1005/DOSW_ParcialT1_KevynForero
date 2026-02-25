@@ -51,4 +51,11 @@ Flujo principal: 1. el actor selecciona su usuario, 2. el sistema ejecuta una pl
 Diagraama de caso de uso; La foto esta en el punto 4
 Posconficiones: Se espera que se genere la reserva 
 
+ID: Rf2
+Nombre del requerimiento: Validacion del tiempo
+Descripcion: el sistema debe validar el tiempo y restricciones de la reserva segun lo que se elija
+Actor: Usuario(Profesor, Monitor, Estudiante)
+Flujo principal: 1. el actor selecciona su usuario, 2. escoge que va a reservar, 3. se valida las restricciones, 4. se realiza la reserva.
+Diagrama de caso de uso: esta en la foto el punto 4
+Poscondiciones se espera que se cumpla todo y genere la reserva
 
