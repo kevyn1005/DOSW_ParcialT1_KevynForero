@@ -31,6 +31,10 @@ RNf1 interfaz adaptable: aqui el sistema debe garantizar que se visialuce de for
 
 RNf2 diseño institucional: el diseño del sistema debe emplear los colores de ingenieria de sistemas
 
-
-
-
+4. Del listado anterior, seleccione los 2 requerimientos funcionales más
+   importantes del sistema y desarrolle un diagrama de casos de uso con su
+   respectiva historia de usuario. Garantiza que al menos un requerimiento
+   funcional seleccionado utilice un patrón identificado. (Añadirlo al
+   README.md)
+![img_4.png](img_4.png)
+![img_3.png](img_3.png)
