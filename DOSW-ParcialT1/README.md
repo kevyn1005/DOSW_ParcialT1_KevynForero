@@ -13,5 +13,24 @@
 Este patron nos permite encapsular cada logica de validacion en distintas clases lo cual facilita la seleccion del algoritmo de reserva que se use, mejorando los tiempos de ejecucion
 
  - Patron Adapter el cual es estructural ya que Silabinfo debe integrarse con sistemas externos como lo es Enlace y Recursos humanos los cuales entregan informacion en formatos de cadena especificos como lo es el id o correo, ya que este solo acepta datos especificos como el correo institucional, se necesita de un adaptador que transforme las interfaces y formatos de los sistemas externos para que sean compatibles con la logica interna
-s
+
 git merge nombre de la rama
+
+3. Identifique 5 requerimientos del sistema y clasifíquelos en funcionales (3) y
+   no funcionales (2). Garantiza que al menos un requerimiento funcional
+   seleccionado utilice un patrón identificado. (Añadirlo al README.md)
+### Requerimientos Funcionales
+Rf1 proceso de reservas: el sistema debe ejcutar el algoritmo de reserva indicado, con pasos ya predefinidos como por ejemplo autenticaciom, el cual permita que el sistema solo deje realizar las reservas a los usuarios definidos, por ejemplo que solo un profesor o monitor puedan realizar la reserva de un salon, o que el profesor sea el unico que puede resrevar una oficina
+
+Rf2 validacion de tiempo: aqui el sistema debe veriricar las duraciones de las reservas y ya con eso despues que verifique no exceda el tiempo limite dependiendo de lo reservado, tambien debe verificar que el horario este libre
+
+Rf3 integrar con servicios de datos externos(Adapter): aqui el sistema debe procesar o informacion que provenga de recurss humanos o de enlace para validar lo que se solicite
+
+### Requerimientos No Funcionales
+RNf1 interfaz adaptable: aqui el sistema debe garantizar que se visialuce de forma correcta en cualquier dispositivo ya sea un pc o un celular
+
+RNf2 diseño institucional: el diseño del sistema debe emplear los colores de ingenieria de sistemas
+
+
+
+

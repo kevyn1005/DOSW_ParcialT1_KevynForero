@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2fe3fa6-4fc4-4d89-99b5-bb38f528adc3" name="Changes" comment="feat: Parcial&#10;parte 1 - Se arrelgo el nombre de la rama 1 y 2">
+    <list default="true" id="a2fe3fa6-4fc4-4d89-99b5-bb38f528adc3" name="Changes" comment="feat: Parcial&#10;parte 2 -">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_25_2026_5_38_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_25_2026_5_38_PM__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DOSW-ParcialT1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/DOSW-ParcialT1/README.md" afterDir="false" />
     </list>
@@ -29,7 +30,7 @@
     </favorite-branches>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="feature/punto1" />
+        <entry key="$PROJECT_DIR$" value="feature/punto2" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -37,9 +38,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="3AB3mMn2eTgK2eMOvg1EmatPtp0" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -50,7 +51,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "feature/punto2",
+    "git-widget-placeholder": "feature/punto3",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
@@ -92,12 +93,21 @@
       <option name="project" value="LOCAL" />
       <updated>1772057628930</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat: Parcial&#10;parte 2 -">
+      <option name="closed" value="true" />
+      <created>1772059349550</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1772059349550</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: Parcial&#10;parte 1 - Acción realizada" />
     <MESSAGE value="feat: Parcial&#10;parte 1 - Se arrelgo el nombre de la rama 1 y 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Parcial&#10;parte 1 - Se arrelgo el nombre de la rama 1 y 2" />
+    <MESSAGE value="feat: Parcial&#10;parte 2 -" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Parcial&#10;parte 2 -" />
   </component>
 </project>
