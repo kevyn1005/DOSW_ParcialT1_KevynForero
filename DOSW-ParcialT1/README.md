@@ -38,3 +38,6 @@ RNf2 diseño institucional: el diseño del sistema debe emplear los colores de i
    README.md)
 ![img_4.png](img_4.png)
 ![img_3.png](img_3.png)
+
+
+

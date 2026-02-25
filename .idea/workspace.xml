@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2fe3fa6-4fc4-4d89-99b5-bb38f528adc3" name="Changes" comment="feat: Parcial&#10;parte 3 - se agrego el readme con la parte 3">
-      <change afterPath="$PROJECT_DIR$/DOSW-ParcialT1/docs/uml/DC1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DOSW-ParcialT1/docs/uml/Dc2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DOSW-ParcialT1/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DOSW-ParcialT1/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DOSW-ParcialT1/img_3.png" afterDir="false" />
+    <list default="true" id="a2fe3fa6-4fc4-4d89-99b5-bb38f528adc3" name="Changes" comment="feat: Parcial&#10;parte 4 - se agrego el readme con la parte 4 y las fotos en la carpeta UMl">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DOSW-ParcialT1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/DOSW-ParcialT1/README.md" afterDir="false" />
     </list>
@@ -114,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772061254782</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="feat: Parcial&#10;parte 4 - se agrego el readme con la parte 4 y las fotos en la carpeta UMl">
+      <option name="closed" value="true" />
+      <created>1772062744133</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1772062744133</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -122,6 +125,7 @@
     <MESSAGE value="feat: Parcial&#10;parte 1 - Se arrelgo el nombre de la rama 1 y 2" />
     <MESSAGE value="feat: Parcial&#10;parte 2 -" />
     <MESSAGE value="feat: Parcial&#10;parte 3 - se agrego el readme con la parte 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Parcial&#10;parte 3 - se agrego el readme con la parte 3" />
+    <MESSAGE value="feat: Parcial&#10;parte 4 - se agrego el readme con la parte 4 y las fotos en la carpeta UMl" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Parcial&#10;parte 4 - se agrego el readme con la parte 4 y las fotos en la carpeta UMl" />
   </component>
 </project>
