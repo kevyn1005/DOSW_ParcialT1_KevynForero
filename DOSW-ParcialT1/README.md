@@ -6,4 +6,4 @@
 ![img.png](img.png)
 
 2. Identifique 2 patrones de diseño que puedan aplicarse al caso de estudio,
-   especificando por cada uno
+   especificando por cada uno.
