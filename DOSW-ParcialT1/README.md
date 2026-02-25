@@ -39,5 +39,16 @@ RNf2 diseño institucional: el diseño del sistema debe emplear los colores de i
 ![img_4.png](img_4.png)
 ![img_3.png](img_3.png)
 
+5. Especifique los 2 requerimientos funcionales seleccionados en el punto
+   anterior (Ver plantilla). (Añadir los documentos al repositorio, en la carpeta
+   de requerimientos).
+
+ID: Rf1
+Nombre del requerimiento: Proceso de reserva
+Descripcion: el sistema debe permitir al usuario realizar el prceos de reserva siguien ciertos pasos como por el ejemplo su ROL
+ACTOR: Profesor, Estudiante, Monitor
+Flujo principal: 1. el actor selecciona su usuario, 2. el sistema ejecuta una plantilla de resrva segun disponibilad, 3.el sistema veririca datos,4. se confirma la reserca
+Diagraama de caso de uso; La foto esta en el punto 4
+Posconficiones: Se espera que se genere la reserva 
 
 
